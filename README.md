@@ -15,3 +15,7 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
 1. **Depoyu Klonlayın:**
    ```bash
    git clone https://github.com/kullaniciadi/udemig-education.git
+
+https://github.com/user-attachments/assets/b5c28656-917c-4c31-8acb-11210124ca63
+
+
