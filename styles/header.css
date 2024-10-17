@@ -1,0 +1,13 @@
+.flex, header {
+  display: flex;
+  align-items: center;
+}
+
+header {
+  background-color: transparent;
+  width: 100%;
+  top: 0;
+  padding: 17px;
+  z-index: 1000;
+  justify-content: space-between;
+}/*# sourceMappingURL=header.css.map */
